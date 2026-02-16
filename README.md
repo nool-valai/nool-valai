@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/fVv0pWXb" width="200" height="200" alt="Nool Valai Logo" />
+  <img src="https://postimg.cc/FffHyMxM" width="200" height="200" alt="Nool Valai Logo" />
 
   # Nool Valai (நூல் வலை)
   
